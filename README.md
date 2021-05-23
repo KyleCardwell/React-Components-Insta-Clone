@@ -40,6 +40,6 @@ Your project should end up looking like [this](https://tk-assets.lambdaschool.co
 - [ ]  Implement the ability to add comments to a post using an input.
 - [ ]  Finish styling all of the application and get your instagram clone to closely resemble the given design spec.
 
-## Submission Format
+## Submission Format 
 
 - [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's Repo). **Please don't merge your own pull request**
